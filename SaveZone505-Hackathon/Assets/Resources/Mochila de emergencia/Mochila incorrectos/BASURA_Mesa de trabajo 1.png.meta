@@ -1,0 +1,320 @@
+fileFormatVersion: 2
+guid: e6bebea6d732fd24c95b0c5b7b994c44
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_0
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1226
+        width: 639
+        height: 688
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de0d090677e6b74e8ac02c6f9a6e2d4
+      internalID: 705645521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_6
+      rect:
+        serializedVersion: 2
+        x: 1759
+        y: 1245
+        width: 608
+        height: 624
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 078c12c56e45cc14db9ae1d7ce3baee5
+      internalID: 1281846507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_7
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 1258
+        width: 784
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2a194bae0855b4ea6aec34da03d630
+      internalID: -511025350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_25
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 278
+        width: 783
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1fad399b1e5ec4ea6474275a14051e
+      internalID: -1948552876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_27
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 261
+        width: 543
+        height: 752
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eadfd0497b8fbc43a857b06fc077782
+      internalID: -1138177311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BASURA_Mesa de trabajo 1_29
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 322
+        width: 761
+        height: 506
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63d54d21d8b1e6e459549a111c1f7961
+      internalID: 2034535771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      BASURA_Mesa de trabajo 1_0: 705645521
+      BASURA_Mesa de trabajo 1_1: 204755405
+      BASURA_Mesa de trabajo 1_10: -1021405289
+      BASURA_Mesa de trabajo 1_11: 1727989361
+      BASURA_Mesa de trabajo 1_12: -1025889595
+      BASURA_Mesa de trabajo 1_13: -1848279168
+      BASURA_Mesa de trabajo 1_14: -1533446701
+      BASURA_Mesa de trabajo 1_15: 411849950
+      BASURA_Mesa de trabajo 1_16: 546347717
+      BASURA_Mesa de trabajo 1_17: 1938285946
+      BASURA_Mesa de trabajo 1_18: 7578908
+      BASURA_Mesa de trabajo 1_19: 293052888
+      BASURA_Mesa de trabajo 1_2: 1360046789
+      BASURA_Mesa de trabajo 1_20: 1185432842
+      BASURA_Mesa de trabajo 1_21: 1495555249
+      BASURA_Mesa de trabajo 1_22: -1448370238
+      BASURA_Mesa de trabajo 1_23: -1044657540
+      BASURA_Mesa de trabajo 1_24: -2031127567
+      BASURA_Mesa de trabajo 1_25: -1948552876
+      BASURA_Mesa de trabajo 1_26: -1225661810
+      BASURA_Mesa de trabajo 1_27: -1138177311
+      BASURA_Mesa de trabajo 1_28: -1674245213
+      BASURA_Mesa de trabajo 1_29: 2034535771
+      BASURA_Mesa de trabajo 1_3: -1223651726
+      BASURA_Mesa de trabajo 1_30: -364651381
+      BASURA_Mesa de trabajo 1_31: -909672674
+      BASURA_Mesa de trabajo 1_32: 681219953
+      BASURA_Mesa de trabajo 1_33: -151118787
+      BASURA_Mesa de trabajo 1_34: 45310896
+      BASURA_Mesa de trabajo 1_35: 1585916792
+      BASURA_Mesa de trabajo 1_36: 1822056449
+      BASURA_Mesa de trabajo 1_37: -1111434883
+      BASURA_Mesa de trabajo 1_38: 2041124975
+      BASURA_Mesa de trabajo 1_39: -563566036
+      BASURA_Mesa de trabajo 1_4: -1902394962
+      BASURA_Mesa de trabajo 1_40: 1266500647
+      BASURA_Mesa de trabajo 1_41: 578879550
+      BASURA_Mesa de trabajo 1_42: -182572698
+      BASURA_Mesa de trabajo 1_43: -117320945
+      BASURA_Mesa de trabajo 1_44: -1501589608
+      BASURA_Mesa de trabajo 1_45: 581847579
+      BASURA_Mesa de trabajo 1_46: 1313235042
+      BASURA_Mesa de trabajo 1_47: 1322680181
+      BASURA_Mesa de trabajo 1_48: -1049195
+      BASURA_Mesa de trabajo 1_49: 851435346
+      BASURA_Mesa de trabajo 1_5: -473118979
+      BASURA_Mesa de trabajo 1_50: -2044110209
+      BASURA_Mesa de trabajo 1_51: 800067261
+      BASURA_Mesa de trabajo 1_52: -360901950
+      BASURA_Mesa de trabajo 1_53: 1163063147
+      BASURA_Mesa de trabajo 1_6: 1281846507
+      BASURA_Mesa de trabajo 1_7: -511025350
+      BASURA_Mesa de trabajo 1_8: -473893048
+      BASURA_Mesa de trabajo 1_9: -1576896221
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

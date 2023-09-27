@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/Login.unity
+    guid: 3a38778f05b269c45b6ffd07bb1b572c
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/UI/UI.unity
+    guid: 336894cc9228e374cb3c5f6d11072926
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/Contactos.unity
+    guid: c5e7c7b016d661246925af61de535932
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/Juegos.unity
+    guid: 7f63a5cf0e2065947918bbb738fa8aac
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/minijuegos.unity
+    guid: 6017ff1168aae574cbee9fb9a87f941b
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/PresentacionQuiz.unity
+    guid: 7020d8e1edef24e46aec84186d10ebe2
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/sismos.unity
+    guid: 611c1c101b0cc33458e8ef3b243f61db
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/Trivia.unity
+    guid: a72c135cf91d14283b90d972f9f09f7f
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/Videos.unity
+    guid: 6f0b1be98f793474f93de23b19c4dff1
+  - enabled: 1
+    path: Assets/Scenes/Scenes Check/rank/rank.unity
+    guid: b63dceaac998e50478142a451f3f2b96
+  m_configObjects: {}

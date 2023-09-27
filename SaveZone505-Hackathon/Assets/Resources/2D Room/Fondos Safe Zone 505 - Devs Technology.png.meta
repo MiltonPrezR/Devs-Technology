@@ -1,0 +1,628 @@
+fileFormatVersion: 2
+guid: 6c975865b55e79644832955822880b35
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_0
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 5292
+        width: 908
+        height: 910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a497d5e37c73fb47a7d21b63f40e485
+      internalID: -1008016866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_1
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 5016
+        width: 911
+        height: 912
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26e5cdabf1dc2f44dbdbbf7cb637f3d5
+      internalID: 1561252999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_2
+      rect:
+        serializedVersion: 2
+        x: 4339
+        y: 5042
+        width: 498
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67114fcffdefe974cac88cd500e01b1f
+      internalID: -763480563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_3
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 4274
+        width: 1524
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3025ed1869f8ff243bee7d662be1c006
+      internalID: -1809676220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_4
+      rect:
+        serializedVersion: 2
+        x: 3033
+        y: 4129
+        width: 912
+        height: 915
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d62c51d65ba1840b87250d9a5e76ae
+      internalID: -1805658168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_5
+      rect:
+        serializedVersion: 2
+        x: 4366
+        y: 4029
+        width: 947
+        height: 675
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d109bb8f7dcc38e4e94945dbed36fb11
+      internalID: -969105674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2754
+        width: 816
+        height: 1368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae9c014832c8cf349861836265e1ff95
+      internalID: 1100533154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_7
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 2833
+        width: 704
+        height: 1175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8eb560116f59ca4a86e676a35f72a66
+      internalID: 740599012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_8
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 3087
+        width: 811
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd9b5f7ce68629544a46d61e7a961de3
+      internalID: 1928726974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_9
+      rect:
+        serializedVersion: 2
+        x: 3034
+        y: 2948
+        width: 947
+        height: 678
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115f85ec697ca6c43a2ed6ee9a44803f
+      internalID: 1006817237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_10
+      rect:
+        serializedVersion: 2
+        x: 4166
+        y: 2921
+        width: 1652
+        height: 722
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ed76de91a63e3468195584eb167d9e
+      internalID: -189507083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_11
+      rect:
+        serializedVersion: 2
+        x: 2509
+        y: 1894
+        width: 1012
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29f34edc07fb9e44fa0830515feb240b
+      internalID: -278432596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_12
+      rect:
+        serializedVersion: 2
+        x: 4654
+        y: 1958
+        width: 1011
+        height: 784
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f490486de99eb749b924a5aa1298717
+      internalID: -245559060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_13
+      rect:
+        serializedVersion: 2
+        x: 4323
+        y: 1864
+        width: 206
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c36d1fafb6b63844a49b716ec67c99b
+      internalID: -981322677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 1095
+        width: 605
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a780afb08bc1b459514309efc191a9
+      internalID: -1922440550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_15
+      rect:
+        serializedVersion: 2
+        x: 1234
+        y: 1068
+        width: 657
+        height: 696
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5745b851a92f7394c8c5e03d8c34d3bb
+      internalID: -959538993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_16
+      rect:
+        serializedVersion: 2
+        x: 2043
+        y: 1092
+        width: 602
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c11242d01e144a8f2a20e453a5073
+      internalID: 956946756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_17
+      rect:
+        serializedVersion: 2
+        x: 2791
+        y: 1102
+        width: 590
+        height: 626
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af98727e1b2e9e04caf0b8470169fc2b
+      internalID: 1167556639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_18
+      rect:
+        serializedVersion: 2
+        x: 3557
+        y: 728
+        width: 1487
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfb9c3590a67b44a80dc0cb65af8cad
+      internalID: 405983515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_19
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 0
+        width: 668
+        height: 653
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08c879d67e11a3f42b31fb9529982977
+      internalID: -525457561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fondos Safe Zone 505 - Devs Technology_20
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 23
+        width: 603
+        height: 642
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3fe231c13b1c854e877c72e3a39ce25
+      internalID: -2123782675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Fondos Safe Zone 505 - Devs Technology_0: -1008016866
+      Fondos Safe Zone 505 - Devs Technology_1: 1561252999
+      Fondos Safe Zone 505 - Devs Technology_10: -189507083
+      Fondos Safe Zone 505 - Devs Technology_11: -278432596
+      Fondos Safe Zone 505 - Devs Technology_12: -245559060
+      Fondos Safe Zone 505 - Devs Technology_13: -981322677
+      Fondos Safe Zone 505 - Devs Technology_14: -1922440550
+      Fondos Safe Zone 505 - Devs Technology_15: -959538993
+      Fondos Safe Zone 505 - Devs Technology_16: 956946756
+      Fondos Safe Zone 505 - Devs Technology_17: 1167556639
+      Fondos Safe Zone 505 - Devs Technology_18: 405983515
+      Fondos Safe Zone 505 - Devs Technology_19: -525457561
+      Fondos Safe Zone 505 - Devs Technology_2: -763480563
+      Fondos Safe Zone 505 - Devs Technology_20: -2123782675
+      Fondos Safe Zone 505 - Devs Technology_3: -1809676220
+      Fondos Safe Zone 505 - Devs Technology_4: -1805658168
+      Fondos Safe Zone 505 - Devs Technology_5: -969105674
+      Fondos Safe Zone 505 - Devs Technology_6: 1100533154
+      Fondos Safe Zone 505 - Devs Technology_7: 740599012
+      Fondos Safe Zone 505 - Devs Technology_8: 1928726974
+      Fondos Safe Zone 505 - Devs Technology_9: 1006817237
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
