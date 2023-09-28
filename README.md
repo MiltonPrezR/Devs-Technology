@@ -1,2 +1,2 @@
 # SafeZone505
-Aplicación móvil - android
+Aplicación móvil
